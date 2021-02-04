@@ -1,11 +1,17 @@
-<html>
-<head><meta charset="utf-8">
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<link rel="stylesheet" href="my-own.css">
+<meta charset="utf-8" name="author" content="Parham mikaelzadeh">
 <title> سلام علیکم</title>
+<link rel="shortcut icon" href="kanekii.ico" type="image/x-icon:>
 </head>
-<body> <h1 style="color:#42b6f5"> hello&apos; there</h1>
+<body> <h1 style="color:#42b6f5"> hello there</h1>
+<span style="font-size: 32px; margin: 21px 0; display: block;">im a baaaad guy</span>
 <img src="kaneki.jpg" alt="kaneki ken" width="350" height="400">
 <p> <h4 style="color:#fc03a9"> i believe i can <strong>meow</strong></h4>
-<p>here<!--<p>no you cant</p>--> you can <a href="https://twitch.tv/navidsilent/" title="somewhere in the world youre always allowed to meow" target="_blank">meow</a></p>
+<p>here you can<!--<p>no you cant</p>--> <a href="https://twitch.tv/navidsilent/" title="somewhere in the world youre always allowed to meow" target="_blank">meow</a></p>
 <p> <a href="https://www.digikala.com/product/dkp-2518323/%D9%85%D9%88%D8%B2-%D9%87%D9%88%D8%AF%DA%A9%D8%A7-1-%DA%A9%DB%8C%D9%84%D9%88%DA%AF%D8%B1%D9%85" title="مگه موز نمیخوای" target="_blank"><img src="banana.jpg" alt="توش موزه موز" height="400" width="400"></a></p>
+<p> <a href="https://www.mozilla.org/" title="i learnt how to code here" target="_blank"><img src="https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png" alt="an image of mozilla.org" height="350" width="350"></a></p>
 </body>
 </html>
